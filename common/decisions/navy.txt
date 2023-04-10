@@ -1,0 +1,13 @@
+navy_fof = {
+	expansion_of_navy = {
+
+		icon = generic_factory
+
+		availble = {
+			always = no
+		}
+
+		cost = 25
+		fire_only_once = no
+	}
+}
