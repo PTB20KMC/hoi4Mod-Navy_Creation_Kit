@@ -3,7 +3,7 @@ navy_fof = {
 
 		icon = generic_factory
 
-		availble = {
+		available = {
 			always = no
 		}
 
